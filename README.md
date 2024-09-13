@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clivert</h1>
-<h3 align="center">A passionate Bioinformatics student</h3>
+<h3 align="center">A Passionate Bioinformatics Student and Data Enthusiast</h3>
 
 # 💫 About Me: 
 🌱I’m currently learning Data Analytics<br>👨‍💻 All of my projects are available at https://github.com/Clivert98?tab=repositories <br>📫 How to reach me clivertansa98@gmail.com<br>⚡ Fun fact I am good at many sports but still haven't learnt to swim.<br><br>
