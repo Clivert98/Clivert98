@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Bioinformatics Graduate and Data Enthusiast</h3>
 
 # 💫 About Me: 
-🌱Aspiring Data Scientist<br>👨‍💻 All of my projects are available at https://github.com/Clivert98?tab=repositories <br>📫 How to reach me clivertansa98@gmail.com<br>⚡ Fun fact I am good at many sports but still haven't learnt to swim.<br><br>
+🌱Passionate Data Enthusiast <br>👨‍💻 All of my projects are available at https://github.com/Clivert98?tab=repositories <br>📫 How to reach me clivertansa98@gmail.com<br>⚡ Fun fact I am good at many sports but still haven't learnt to swim.<br><br>
 
 
 ## 🌐 Socials:
